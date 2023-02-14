@@ -4,7 +4,7 @@
 - 🔭 Ruby on Rails developer
 
 <div align="left">
-  <a href="https://github.com/pedigru3">
+  <a href="https://github.com/alexappelt">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexappelt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexappelt&layout=compact&langs_count=7&theme=dark"/>
 </div>
