@@ -1,28 +1,16 @@
-### Hi, I'm Alex Appelt 👋
+# Alex Appelt
 
+Full-Stack Developer · Ruby on Rails · React · ERP & Integrations
 
-- 🔭 Ruby on Rails developer
+**Stack**  
+`Ruby` `Ruby on Rails` `JavaScript` `TypeScript` `React` `Redux` `Node.js`
+`Pascal` `HTML` `CSS` `REST APIs` `WebSockets`
+`PostgreSQL` `MySQL` `SQLite` `Firebird`
+`Docker` `Linux` `Nginx` `Git`
 
-<div align="left">
-  <a href="https://github.com/alexappelt">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexappelt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexappelt&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Fe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-    <img align="center" alt="Fe-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Fe-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-    
-</div>
-  
- ###
-  
-<div> 
-  <a href="https://www.instagram.com/appeltalex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alexappelt6501@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alex-appelt-514bba177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+[LinkedIn](https://www.linkedin.com/in/alexappelt-514bba177/) · [Email](mailto:alexappelt6501@gmail.com)
 
+<p>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=alexappelt&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=alexappelt&layout=compact&langs_count=6&theme=transparent&hide_border=true" alt="Most used languages" />
+</p>
