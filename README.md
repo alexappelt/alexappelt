@@ -8,6 +8,9 @@ Full-Stack Developer · Ruby on Rails · React · ERP & Integrations
 `PostgreSQL` `MySQL` `SQLite` `Firebird`
 `Docker` `Linux` `Nginx` `Git`
 
+**AI**  
+`LLMs` `RAG` `AI Agents` `Vector Search` `Ollama` `AI Integrations`
+
 [LinkedIn](https://www.linkedin.com/in/alexappelt-514bba177/) · [Email](mailto:alexappelt6501@gmail.com)
 
 <p>
